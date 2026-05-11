@@ -26,7 +26,7 @@ pip install mbari-aidata
 TATOR_TOKEN=<from .env file>
 ```
 
-5) download command
+4) download command
 
 ```bash
     aidata download dataset \
@@ -39,7 +39,7 @@ TATOR_TOKEN=<from .env file>
      --crop-roi --disable-ssl-verify
 ```
 
-7) Convert to coco format with a conversion program
+5) Convert to coco format with a conversion program
 
 ```bash
 python3 yolo_to_coco.py --images_path Jan22_testset/testset/images/ --labels_path Jan22_testset/testset/labels --output_path Jan22_testset/testset/_annotations.coco.json --class_names "Bird" "Excreta" "Kelp" "Foam" "Mola" "Jelly" "Mooring_Buoy" "Wood" "Reflectance" "Otter" "Egregia" "Whale" "Person" "Pinniped" "Cement_Ship" "Trash" "Kayak" "Wave" "Trinity" "Buoy" "Batray" "Boat" "Shark" "Fish" "Surfboard" "Velella_velella_raft" "Velella_velella"
