@@ -52,7 +52,8 @@ There is a helper program to generate that list of labels
 
 6) Convert using
 
-    yolo_to_coco_converter.py
+
+     yolo_to_coco_converter.py
 
 
 This converter deals with the extra .JPG in the file name of each txt file in labels directory
