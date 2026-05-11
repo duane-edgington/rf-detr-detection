@@ -11,13 +11,13 @@ UAVS images
 2) this repo has a venv setup with latest aidata
 
 
-   source bin/activate
+    source bin/activate
 
 
-previously executed
+2a) previously executed
 
 
-   pip install mbari-aidata
+     pip install mbari-aidata
 
 
 3) setup .env environment variables for download
