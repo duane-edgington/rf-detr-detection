@@ -14,7 +14,7 @@ UAVS images
      source bin/activate
 
 
-2a) previously executed
+2a)  previously executed
 
 
      pip install mbari-aidata
