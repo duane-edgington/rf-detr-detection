@@ -10,9 +10,9 @@ UAVS images
 
 2) this repo has a venv setup with latest aidata
 
-'''bash
-     source bin/activate
-'''
+```bash
+source bin/activate
+```
 
 2a)  previously executed
 
