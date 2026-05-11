@@ -43,7 +43,7 @@ TATOR_TOKEN=<from .env file>
 
 ```bash
 python3 yolo_to_coco.py --images_path Jan22_testset/testset/images/ --labels_path Jan22_testset/testset/labels --output_path Jan22_testset/testset/_annotations.coco.json --class_names "Bird" "Excreta" "Kelp" "Foam" "Mola" "Jelly" "Mooring_Buoy" "Wood" "Reflectance" "Otter" "Egregia" "Whale" "Person" "Pinniped" "Cement_Ship" "Trash" "Kayak" "Wave" "Trinity" "Buoy" "Batray" "Boat" "Shark" "Fish" "Surfboard" "Velella_velella_raft" "Velella_velella"
-```bash
+```
 
 There is a helper program to generate that list of labels
 
