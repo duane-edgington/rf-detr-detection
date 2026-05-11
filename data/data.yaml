@@ -1,0 +1,14 @@
+train: /content/datasets/train/images
+val: /content/datasets/val/images
+test: /content/datasets/images
+
+nc: 1
+
+names: ["object"]
+
+roboflow:
+  workspace: liangdianzhong
+  project: -qvdww
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/liangdianzhong/-qvdww/dataset/3
