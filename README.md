@@ -41,7 +41,6 @@ previously executed
 
 7) Convert to coco format with a conversion program
 
-
     python3 yolo_to_coco.py --images_path Jan22_testset/testset/images/ --labels_path Jan22_testset/testset/labels --output_path Jan22_testset/testset/_annotations.coco.json --class_names "Bird" "Excreta" "Kelp" "Foam" "Mola" "Jelly" "Mooring_Buoy" "Wood" "Reflectance" "Otter" "Egregia" "Whale" "Person" "Pinniped" "Cement_Ship" "Trash" "Kayak" "Wave" "Trinity" "Buoy" "Batray" "Boat" "Shark" "Fish" "Surfboard" "Velella_velella_raft" "Velella_velella"
 
 
@@ -53,7 +52,6 @@ There is a helper program to generate that list of labels
 
 6) Convert using
 
-  
     yolo_to_coco_converter.py
 
 
