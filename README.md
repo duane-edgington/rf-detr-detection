@@ -11,7 +11,7 @@ UAVS images
 2) this repo has a venv setup with latest aidata
 
 
-     source bin/activate
+      source bin/activate
 
 
 2a)  previously executed
