@@ -1,6 +1,6 @@
 train: /content/datasets/train/images
 val: /content/datasets/val/images
-test: /content/datasets/images
+test: /content/datasets/test/images
 
 nc: 1
 
